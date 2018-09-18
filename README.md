@@ -8,3 +8,4 @@ contains vim, bash, shadowsocks ...
 - [vim](https://github.com/deju/development-environment/blob/master/vim.md)
 - [bash](https://github.com/deju/development-environment/blob/master/bash.md)
 - [shadowsocks](https://github.com/deju/development-environment/blob/master/ss.md)
+- [git](https://github.com/deju/development-environment/blob/master/git.md)
