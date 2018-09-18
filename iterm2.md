@@ -14,4 +14,4 @@
     4, 需要将下面图片中的底部路径重新设置下。
 
 
-![iTerm2](http://)
+![iTerm2](https://raw.githubusercontent.com/deju/development-environment/master/iterm2/iterm2-general.png)
