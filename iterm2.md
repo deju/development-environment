@@ -1,6 +1,6 @@
 ## iterm2 env
 
-    // iterm2配置：(配置默认是放下~/Library/Preferences/下，文件名为com.googlecode.iterm2.plist)
+    // iterm2配置：(配置默认是放在~/Library/Preferences/目录下，文件名为com.googlecode.iterm2.plist)
     
     1, 关闭iterm2
 
