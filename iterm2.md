@@ -15,3 +15,8 @@
 
 
 ![iTerm2](https://raw.githubusercontent.com/deju/development-environment/master/iterm2/iterm2-general.png)
+
+
+### plugins
+- [tmux theme](https://github.com/gpakosz/.tmux)
+- [zsh theme](https://www.jianshu.com/p/95f68e035f33)
